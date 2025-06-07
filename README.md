@@ -38,12 +38,10 @@ Welcome to this curated collection of foundational and breakthrough research pap
   [📄 Paper](https://arxiv.org/abs/1512.03385)  
   Used skip connections to build ultra-deep networks (e.g., ResNet50).
 
-### 🧭 Visual Timeline of CNN Architectures  
-- [🖼️ View Timeline](https://towardsdatascience.com/a-comprehensive-overview-of-modern-cnns-architecture-40c9b34d8e44)
 
 ---
 
-## 🔁 Recurrent Neural Networks (RNN)
+##  Recurrent Neural Networks (RNN)
 
 - **Long Short-Term Memory (LSTM)**  
   *Hochreiter and Schmidhuber (1997)*  
@@ -70,7 +68,7 @@ Welcome to this curated collection of foundational and breakthrough research pap
 
 ---
 
-## 🚀 Optimization Algorithms
+##  Optimization Algorithms
 
 - **Adam: A Method for Stochastic Optimization**  
   *Kingma and Ba (2015)*  
